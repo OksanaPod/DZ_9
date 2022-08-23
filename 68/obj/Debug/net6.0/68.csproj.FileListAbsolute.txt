@@ -1,0 +1,15 @@
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\bin\Debug\net6.0\68.exe
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\bin\Debug\net6.0\68.deps.json
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\bin\Debug\net6.0\68.runtimeconfig.json
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\bin\Debug\net6.0\68.dll
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\bin\Debug\net6.0\68.pdb
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\68.csproj.AssemblyReference.cache
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\68.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\68.AssemblyInfoInputs.cache
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\68.AssemblyInfo.cs
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\68.csproj.CoreCompileInputs.cache
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\68.dll
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\refint\68.dll
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\68.pdb
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\68.genruntimeconfig.cache
+C:\Users\NOi\Desktop\Git_study\Git_study_9\DZ_9\68\obj\Debug\net6.0\ref\68.dll
